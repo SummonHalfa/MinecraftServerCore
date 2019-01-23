@@ -1,0 +1,50 @@
+banned-words:
+- porcodio il maiale
+- madonna
+- troia
+- madonna troia
+
+double-jump: false
+
+gm1-message: " &9You're gamemode has been changed to Creative"
+already-in-gm1: " &cYou're gamemode is already creative"
+gm0-message: " &9You're gamemode has been changed to Survival"
+already-in-gm0: " &cYou're gamemode is already survival"
+
+automute-message: " &9Has been automuted for 10m"
+automute-unmute-message: " &9You has been unmuted"
+
+whitelist-enable: "&aWhitelist Has been enabled"
+whitelist-disable: "&cWhitelist Has been disabled"
+whitelist-add: " &aHas been whitelisted"
+whitelist-remove: "&cHas been removed from the whitelist  "
+
+clearchat-message: "&9Chat has been cleared"
+
+fly-enabled: "&9Fly has been enabled"
+fly-disabled: "&9Fly has been disabled"
+
+msg-sender: "&7(To ) "
+msg-receiving: "&7(From ) "
+
+invsee-message: "&9Inventory"
+
+heal-message: "&9You have been healed"
+heal-other: "&9Has been healed"
+
+discord: "&9Discord: &fIncoming"
+teamspeak: "&9Teamspeak : &fIncoming"
+twitter: "&9Twitter : &fIncoming"
+store: "&9Store: &fIncoming"
+
+scoreboard-title: "&6&lGapple Network"
+
+
+broadcast-prefix: "&7[&cAlert&7] "
+
+# 20 = 1 sec
+announcer-time: 600
+announcer-prefix: "&7[&9TIP&7] "
+announcer-list:
+- porcodio
+

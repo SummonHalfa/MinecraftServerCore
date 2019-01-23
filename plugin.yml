@@ -1,0 +1,46 @@
+name: HalfaCore
+author: halfa
+main: me.halfa.core.Main
+description: i hava no life
+version: 1.0
+
+commands:
+  whitelist:
+  
+  wl:
+  
+  globalmute:
+  
+  fly:
+  
+  invsee:
+  
+  gamemode:
+  
+  List:
+  
+  gm:
+  
+  OpenBeta:
+  
+  OB:
+  
+  namecolor:
+  
+  tp:
+  
+  nc:
+  
+  msg:
+  
+  r:
+  
+  CC:
+  
+  ClearChat:
+  
+  heal:
+  
+  broadCast:
+  
+  bc:
